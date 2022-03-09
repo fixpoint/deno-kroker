@@ -2,8 +2,7 @@
 
 [![deno land](http://img.shields.io/badge/available%20on-deno.land/x-lightgrey.svg?logo=deno)](https://deno.land/x/kroker)
 [![deno doc](https://doc.deno.land/badge.svg)](https://doc.deno.land/https/deno.land/x/kroker/mod.ts)
-[![Test](https://github.com/fixpoint/deno-kroker/workflows/Test/badge.svg)](https://github.com/fixpoint/deno-kroker/actions?query=workflow%3ATest)
-[![npm version](https://badge.fury.io/js/kroker.svg)](https://badge.fury.io/js/kroker)
+[![Test](https://github.com/fixpoint/deno-kroker/actions/workflows/test.yml/badge.svg)](https://github.com/fixpoint/deno-kroker/actions/workflows/test.yml)
 
 **UNDER DEVELOPMENT**
 
